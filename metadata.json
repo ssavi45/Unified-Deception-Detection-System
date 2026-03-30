@@ -1,0 +1,8 @@
+{
+  "name": "UDDS - Unified Deception Detection System",
+  "description": "A professional forensic analysis dashboard for deception detection using biometric and audio features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
